@@ -1,2 +1,2 @@
 Coursera
-In this repesotory there is some exercice from coursera
+In this repesotory there is some exercices from Coursera.orgs
